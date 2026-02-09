@@ -5,7 +5,7 @@ Test Suite
 Due to its nature, ``build`` has a somewhat complex test suite, which we will
 try to go through in this document.
 
-Firstly, there are two set of tests, unit tests and integration tests. In unit
+Firstly, there are two sets of tests, unit tests and integration tests. In unit
 tests, we test the actual code implementation. In integration tests, we test
 ``build`` on a few real world projects; this is mostly a sanity test.
 
@@ -35,7 +35,7 @@ checking, and one to produce the documentation. There are some other extra
 environments, like checking the code with the minimum version of each
 dependency.
 
-Some examples commands for this project:
+Some example commands for this project:
   - Run type checking: ``tox -e type``
   - Only run unit tests against Python 3.9: ``tox -e py39``
   - Run both unit and integration tests: ``tox -- --run-integration``
