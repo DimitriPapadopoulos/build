@@ -93,7 +93,7 @@ On conda-forge, this package is called [python-build][].
 
 ### Code of Conduct
 
-Everyone interacting in the build's codebase, issue trackers, chat rooms, and mailing lists is expected to follow
+Everyone interacting with build's codebase, issue trackers, chat rooms, and mailing lists is expected to follow
 the [PSF Code of Conduct].
 
 [psf code of conduct]: https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md

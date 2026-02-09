@@ -29,7 +29,7 @@ You can find out more about how to run ``tox`` and its arguments in the
 `tox documentation`_.
 
 We have a fairly large environment matrix. We run tests for all supported Python
-versions and implementations, and with the module being invoked from path,
+versions and implementations, and with the module being invoked directly from path,
 sdist install, or wheel install. Additionally, we have an environment for type
 checking, and one to produce the documentation. There are some other extra
 environments, like checking the code with the minimum version of each
