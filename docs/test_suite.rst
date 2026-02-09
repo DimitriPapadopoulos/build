@@ -44,7 +44,7 @@ Some examples commands for this project:
   - Only run unit tests against Python 3.9 with the module installed via wheel: ``tox -e py39-wheel``
 
 
-We have CI testing, where we the test suite across all supported operating
+We have CI testing, where we run the test suite across all supported operating
 systems, and have test coverage reports.
 
 
