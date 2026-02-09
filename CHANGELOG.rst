@@ -24,9 +24,9 @@ Changelog
 - Use ``types-colorama``
   (:pr:`945`)
 - In docs, first argument for ``_has_dependency`` is a name
-  (:pr:`970`)
+  (PR :pr:`970`)
 - Fix test failure when ``flit-core`` is installed
-  (:pr:`921`)
+  (PR :pr:`921`)
 
 
 1.3.0 (2025-08-01)
